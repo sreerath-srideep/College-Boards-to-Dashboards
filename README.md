@@ -50,7 +50,7 @@ Key highlights:
 
 
 ### Dashboard Overview 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Student-Body-Overview.png)
 
 ### Student Majors by Year 
 ![Student Majors by Year](screenshots/student-majors-by-year.png) 
