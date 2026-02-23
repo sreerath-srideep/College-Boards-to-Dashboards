@@ -1,5 +1,3 @@
-# College-Boards-to-Dashboards
-This is a Business Intelligence project done by using AWS Quicksight for Data Analysis &amp; Visualization.
 
 # From College Boards to Dashboards 
 A Business Intelligence project using **AWS QuickSight** and **Amazon Q** to analyze student enrollment patterns, uncover insights, and simulate strategies for improving satisfaction without increasing costs.
@@ -48,12 +46,26 @@ Key highlights:
 
 ## Screenshots
 
-<img width="1920" height="901" alt="30" src="https://github.com/user-attachments/assets/55b31cff-5efc-41c8-90b4-4de87ea6599a" />
+<img width="1920" height="762" alt="3" src="https://github.com/user-attachments/assets/2a92ad71-2ab0-4a57-bbc0-52ddd25dc8e6" />
 
-- Dashboard: *Student Body Overview*  
-- Scenario: *Visual Analysis Using Amazon Q*  
+
+### Dashboard Overview 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Student Majors by Year 
+![Student Majors by Year](screenshots/student-majors-by-year.png) 
+
+### Proportion of Student Types 
+![Proportion of Student Types](screenshots/student-types-pie.png) 
+
+### Scenario: Improving Student Satisfaction Without Increasing Costs 
+![Scenario Analysis](screenshots/scenario-analysis.png)
 
 ---
+
+## 📄 Project Report 
+- For full details of the analysis and workflow, you can view the complete report here:
+- [Project.pdf](docs/Project.pdf)
 
 ## Learning Outcomes
 - Hands-on with **AWS QuickSight BI workflows**.  
@@ -73,7 +85,7 @@ Key highlights:
 ## How to Explore
 1. Clone the repository.  
 2. Review the `README.md` for project context.  
-3. Explore screenshots and documentation in [docs] section.   
+3. Explore screenshots and documentation in [Project.pdf](docs/Project.pdf).   
 
 ---
 
