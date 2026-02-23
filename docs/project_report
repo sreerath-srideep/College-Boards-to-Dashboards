@@ -1,0 +1,16 @@
+Project  Report:  From  College  Boards  to Dashboards 
+
+*Student Name: Sreerath Srideep*  *Course: Udacity NanoDegree AWS Business Engineer* 
+*Tool Used: Amazon QuickSight*  *Project Title: Providing Data Insights to a Community College* 
+
+Project Overview 
+
+This  project  simulates  a  real-world  business  intelligence  workflow  using  Amazon QuickSight  and  Amazon  Q  to  support  a  fictional  community  college  in  understanding 
+student  enrollment  patterns.  The  goal  was  to  create,  configure,  and  analyze  a  dataset, build  interactive  visuals,  and  develop  a  data-driven  story  that  could  inform  strategic 
+decisions for improving student satisfaction without increasing costs. 
+
+Sample Topic Setup 
+
+The  first  step  was  to  create  a  sample  topic  titled  Student  Enrollment  .  This  process  took 
+several  minutes  to  initialize.  Once  completed,  the  topic  served  as  a  foundation  for 
+exploring student data using Amazon Q. 
